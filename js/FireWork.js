@@ -16,7 +16,7 @@ export default class FireWork {
             prevPositions: [], // contains x, y object of previous coords
             // from this y will be counted the trajectory start y and explosion y
             minY: window.innerHeight - (window.innerHeight * randInt(75, 85)) / 100,
-            reachedTrajectory: false, // reached y property the moment then need to make trajectory
+            reachedTrajectory: false, // reached y property the moment then need to make the firework fall down
         }
 
         // it should not be zero
