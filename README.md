@@ -1,2 +1,2 @@
 # Firework js animatiion 
-![preview](preview.jpg)
+![preview](preview.gif)
