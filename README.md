@@ -1,2 +1,2 @@
-# Firework js animatiion 
+# Firework js animation 
 ![preview](preview.gif)
